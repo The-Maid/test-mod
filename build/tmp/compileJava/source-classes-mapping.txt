@@ -1,0 +1,6 @@
+io/github/yaboi_mc/mixin/ExampleMixin.java
+ io.github.yaboi_mc.mixin.ExampleMixin
+io/github/yaboi_mc/FabricItem.java
+ io.github.yaboi_mc.FabricItem
+io/github/yaboi_mc/TestMod.java
+ io.github.yaboi_mc.TestMod
